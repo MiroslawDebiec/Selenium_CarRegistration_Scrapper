@@ -1,0 +1,32 @@
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\miroslaw.debiec\Desktop\Selenium\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\phantomjs.exe
+C:\Users\debie\Desktop\Registration Scrapper -Selenium\Selenium\bin\Debug\phantomjs-license.txt
