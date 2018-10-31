@@ -21,7 +21,7 @@ namespace Selenium
             var driver = new PhantomJSDriver();
             var car = new Car();
             bool isEnd = false;
-            string carRegistration = "";
+           
 
             while (isEnd == false)
             {
@@ -43,7 +43,8 @@ namespace Selenium
                     car.Tax = (driver.FindElementByXPath("//*[@id=\"content\"]/div[2]/div[1]/div[1]/p/strong")).Text; 
                     car.Mot = (driver.FindElementByXPath("//*[@id=\"content\"]/div[2]/div[2]/div[1]/p/strong")).Text;
 
-                    Console.WriteLine("------------------------------------------------");
+                    Console.WriteLine("-------------Modified---------------");
+                    Console.WriteLine("-------------Modified--InGitKraken-------------");
                     Console.WriteLine(" * REGISTRATION: {0}\n * MAKE: {1}\n * COLOR: {2}\n * YEAR: {3}\n * TAX: {4}\n * MOT: {5}", car.Registration, car.Make, car.Color, car.Year, car.Tax, car.Mot);
                 }
                 catch (Exception)
